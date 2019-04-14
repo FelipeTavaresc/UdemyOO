@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosEstaticosEx02", "Cla
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Construtores, palavra this, sobrecarga, encapsulamento", "Construtores, palavra this, sobrecarga, encapsulamento", "{834454F1-B1D9-4375-A7D1-C84E1C9E131B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstrutoresEx01", "Construtores, palavra this, sobrecarga, encapsulamento\ConstrutoresEx01\ConstrutoresEx01.csproj", "{672A8CE8-E947-4FF1-BFFA-DC5F2C5CC190}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,6 +63,10 @@ Global
 		{9B69F1DA-53C1-48C2-8835-515F2F3212EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B69F1DA-53C1-48C2-8835-515F2F3212EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B69F1DA-53C1-48C2-8835-515F2F3212EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{672A8CE8-E947-4FF1-BFFA-DC5F2C5CC190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{672A8CE8-E947-4FF1-BFFA-DC5F2C5CC190}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{672A8CE8-E947-4FF1-BFFA-DC5F2C5CC190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{672A8CE8-E947-4FF1-BFFA-DC5F2C5CC190}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -74,6 +80,7 @@ Global
 		{05013D1B-46F2-409D-A42B-2765EBA02869} = {12CF9892-1A92-4FDC-A1E9-B2497F838E4B}
 		{BDE96F95-0441-49BD-84B3-9C19CF8F8E1E} = {12CF9892-1A92-4FDC-A1E9-B2497F838E4B}
 		{9B69F1DA-53C1-48C2-8835-515F2F3212EC} = {12CF9892-1A92-4FDC-A1E9-B2497F838E4B}
+		{672A8CE8-E947-4FF1-BFFA-DC5F2C5CC190} = {834454F1-B1D9-4375-A7D1-C84E1C9E131B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D8ADBB4B-8197-40D1-BDED-08F5C2BDC4A0}
