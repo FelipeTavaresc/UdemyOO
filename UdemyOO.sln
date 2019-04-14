@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodoEstaticosEx01", "Clas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosEstaticosEx02", "Classes, atributos, métodos, membros estáticos\MetodosEstaticosEx02\MetodosEstaticosEx02.csproj", "{9B69F1DA-53C1-48C2-8835-515F2F3212EC}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Construtores, palavra this, sobrecarga, encapsulamento", "Construtores, palavra this, sobrecarga, encapsulamento", "{834454F1-B1D9-4375-A7D1-C84E1C9E131B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
