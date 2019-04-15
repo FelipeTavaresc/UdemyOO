@@ -20,6 +20,13 @@ namespace ConstrutoresEx01
             Quantidade = quantidade;
         }
 
+        public Produto(string nome, double preco)
+        {
+            Nome = nome;
+            Preco = preco;
+            Quantidade = 15;
+        }
+
         public double ValorTotalEmEstoque()
         {
             return Preco * Quantidade;
