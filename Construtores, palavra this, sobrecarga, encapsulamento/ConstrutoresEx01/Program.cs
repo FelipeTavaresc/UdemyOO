@@ -19,7 +19,15 @@ namespace ConstrutoresEx01
 
             Produto p = new Produto(nome, preco);
 
-            Produto p1 = new Produto();
+            Produto p2 = new Produto();
+
+            //Sintaxe alternativa para inicializar valores
+            Produto p3 = new Produto
+            {
+                Nome = "TV",
+                Preco = 500.0,
+                Quantidade = 10
+            };
 
             Console.WriteLine();
             Console.WriteLine("Dados do produto: " + p);
