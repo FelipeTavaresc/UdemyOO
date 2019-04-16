@@ -1,0 +1,6 @@
+C:\Users\felip\Desktop\UdemyOO\Construtores, palavra this, sobrecarga, encapsulamento\ConstrutoresEx04\obj\Debug\ConstrutoresEx04.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\UdemyOO\Construtores, palavra this, sobrecarga, encapsulamento\ConstrutoresEx04\bin\Debug\ConstrutoresEx04.exe.config
+C:\Users\felip\Desktop\UdemyOO\Construtores, palavra this, sobrecarga, encapsulamento\ConstrutoresEx04\bin\Debug\ConstrutoresEx04.exe
+C:\Users\felip\Desktop\UdemyOO\Construtores, palavra this, sobrecarga, encapsulamento\ConstrutoresEx04\bin\Debug\ConstrutoresEx04.pdb
+C:\Users\felip\Desktop\UdemyOO\Construtores, palavra this, sobrecarga, encapsulamento\ConstrutoresEx04\obj\Debug\ConstrutoresEx04.exe
+C:\Users\felip\Desktop\UdemyOO\Construtores, palavra this, sobrecarga, encapsulamento\ConstrutoresEx04\obj\Debug\ConstrutoresEx04.pdb
