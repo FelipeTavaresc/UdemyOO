@@ -13,20 +13,20 @@ namespace ConstrutoresEx01
         public double Preco;
         public int Quantidade;
 
-        public Produto() { }
-
-        public Produto(string nome, double preco, int quantidade)
+        public Produto()
         {
-            Nome = nome;
-            Preco = preco;
-            Quantidade = quantidade;
+            Quantidade = 10;
         }
 
-        public Produto(string nome, double preco)
+        public Produto(string nome, double preco) : this() //Reutilizando o construtor padrão utilzando 'this'
         {
             Nome = nome;
             Preco = preco;
-            Quantidade = 15;
+        }
+
+        public Produto(string nome, double preco, int quantidade) : this (nome, preco) //Reutilizando o contrutor de 2 argumentos utilzando 'this'
+        {
+            Quantidade = quantidade;
         }
 
         public double ValorTotalEmEstoque()
