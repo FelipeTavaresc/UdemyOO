@@ -1,0 +1,6 @@
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Construtores, palavra this, sobrecarga, encapsulamento\ConstrutoresEx02\bin\Debug\ConstrutoresEx02.exe.config
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Construtores, palavra this, sobrecarga, encapsulamento\ConstrutoresEx02\bin\Debug\ConstrutoresEx02.exe
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Construtores, palavra this, sobrecarga, encapsulamento\ConstrutoresEx02\bin\Debug\ConstrutoresEx02.pdb
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Construtores, palavra this, sobrecarga, encapsulamento\ConstrutoresEx02\obj\Debug\ConstrutoresEx02.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Construtores, palavra this, sobrecarga, encapsulamento\ConstrutoresEx02\obj\Debug\ConstrutoresEx02.exe
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Construtores, palavra this, sobrecarga, encapsulamento\ConstrutoresEx02\obj\Debug\ConstrutoresEx02.pdb

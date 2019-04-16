@@ -3,3 +3,4 @@ C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Construtores, pala
 C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Construtores, palavra this, sobrecarga, encapsulamento\ConstrutoresEx01\bin\Debug\ConstrutoresEx01.pdb
 C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Construtores, palavra this, sobrecarga, encapsulamento\ConstrutoresEx01\obj\Debug\ConstrutoresEx01.exe
 C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Construtores, palavra this, sobrecarga, encapsulamento\ConstrutoresEx01\obj\Debug\ConstrutoresEx01.pdb
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Construtores, palavra this, sobrecarga, encapsulamento\ConstrutoresEx01\obj\Debug\ConstrutoresEx01.csprojResolveAssemblyReference.cache

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.28307.572
+VisualStudioVersion = 15.0.26228.28
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Classes, atributos, métodos, membros estáticos", "Classes, atributos, métodos, membros estáticos", "{12CF9892-1A92-4FDC-A1E9-B2497F838E4B}"
 EndProject
@@ -24,6 +24,8 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Construtores, palavra this, sobrecarga, encapsulamento", "Construtores, palavra this, sobrecarga, encapsulamento", "{834454F1-B1D9-4375-A7D1-C84E1C9E131B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstrutoresEx01", "Construtores, palavra this, sobrecarga, encapsulamento\ConstrutoresEx01\ConstrutoresEx01.csproj", "{672A8CE8-E947-4FF1-BFFA-DC5F2C5CC190}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstrutoresEx02", "Construtores, palavra this, sobrecarga, encapsulamento\ConstrutoresEx02\ConstrutoresEx02.csproj", "{C43BA42B-C6CA-40AC-AEBA-F52A5457C94B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -67,6 +69,10 @@ Global
 		{672A8CE8-E947-4FF1-BFFA-DC5F2C5CC190}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{672A8CE8-E947-4FF1-BFFA-DC5F2C5CC190}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{672A8CE8-E947-4FF1-BFFA-DC5F2C5CC190}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C43BA42B-C6CA-40AC-AEBA-F52A5457C94B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C43BA42B-C6CA-40AC-AEBA-F52A5457C94B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C43BA42B-C6CA-40AC-AEBA-F52A5457C94B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C43BA42B-C6CA-40AC-AEBA-F52A5457C94B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -81,6 +87,7 @@ Global
 		{BDE96F95-0441-49BD-84B3-9C19CF8F8E1E} = {12CF9892-1A92-4FDC-A1E9-B2497F838E4B}
 		{9B69F1DA-53C1-48C2-8835-515F2F3212EC} = {12CF9892-1A92-4FDC-A1E9-B2497F838E4B}
 		{672A8CE8-E947-4FF1-BFFA-DC5F2C5CC190} = {834454F1-B1D9-4375-A7D1-C84E1C9E131B}
+		{C43BA42B-C6CA-40AC-AEBA-F52A5457C94B} = {834454F1-B1D9-4375-A7D1-C84E1C9E131B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D8ADBB4B-8197-40D1-BDED-08F5C2BDC4A0}
