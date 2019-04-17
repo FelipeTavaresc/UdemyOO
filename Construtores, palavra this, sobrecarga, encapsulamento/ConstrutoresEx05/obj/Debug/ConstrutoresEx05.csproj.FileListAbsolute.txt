@@ -1,0 +1,7 @@
+C:\Users\felip\Desktop\UdemyOO\Construtores, palavra this, sobrecarga, encapsulamento\ConstrutoresEx05\bin\Debug\ConstrutoresEx05.exe.config
+C:\Users\felip\Desktop\UdemyOO\Construtores, palavra this, sobrecarga, encapsulamento\ConstrutoresEx05\bin\Debug\ConstrutoresEx05.exe
+C:\Users\felip\Desktop\UdemyOO\Construtores, palavra this, sobrecarga, encapsulamento\ConstrutoresEx05\bin\Debug\ConstrutoresEx05.pdb
+C:\Users\felip\Desktop\UdemyOO\Construtores, palavra this, sobrecarga, encapsulamento\ConstrutoresEx05\obj\Debug\ConstrutoresEx05.csprojAssemblyReference.cache
+C:\Users\felip\Desktop\UdemyOO\Construtores, palavra this, sobrecarga, encapsulamento\ConstrutoresEx05\obj\Debug\ConstrutoresEx05.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\UdemyOO\Construtores, palavra this, sobrecarga, encapsulamento\ConstrutoresEx05\obj\Debug\ConstrutoresEx05.exe
+C:\Users\felip\Desktop\UdemyOO\Construtores, palavra this, sobrecarga, encapsulamento\ConstrutoresEx05\obj\Debug\ConstrutoresEx05.pdb
