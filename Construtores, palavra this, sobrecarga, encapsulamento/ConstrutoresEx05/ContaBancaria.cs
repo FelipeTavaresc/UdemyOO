@@ -31,7 +31,7 @@ namespace ConstrutoresEx05
 
         public void Deposito(double valor)
         {
-            Saldo = Saldo + valor;
+            Saldo += valor;
         }
 
         public void Saque(double valor)

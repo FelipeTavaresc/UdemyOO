@@ -38,6 +38,27 @@ namespace ConstrutoresEx05
             Console.WriteLine("Dados da conta: ");
             Console.WriteLine(c);
 
+            Console.WriteLine();
+
+            Console.Write("Entre com um valor para depósito: ");
+            double valor = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            c.Deposito(valor);
+
+            Console.WriteLine();
+            Console.WriteLine("Dados da conta atualizados");
+            Console.WriteLine(c);
+
+            Console.WriteLine();
+            Console.Write("Entre com um valor para saque: ");
+            valor = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            c.Saque(valor);
+
+            Console.WriteLine();
+            Console.WriteLine("Dados da conta atualizados");
+            Console.WriteLine(c);
+
+
+            Console.ReadKey();
 
         }
     }
