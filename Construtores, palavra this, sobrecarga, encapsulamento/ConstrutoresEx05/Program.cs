@@ -20,9 +20,9 @@ namespace ConstrutoresEx05
             string titular = Console.ReadLine();
 
             Console.Write("Haverá depósito inicial (s/n)? ");
-            string op = Console.ReadLine();
+            char resp = char.Parse(Console.ReadLine());
 
-            if (op == "s")
+            if (resp == 's' || resp == 'S')
             {
                 Console.Write("Entre o valor de depósito inicial: ");
                 double depositoInicial = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
