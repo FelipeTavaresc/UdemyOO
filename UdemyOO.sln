@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstrutoresEx04", "Constru
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstrutoresEx05", "Construtores, palavra this, sobrecarga, encapsulamento\ConstrutoresEx05\ConstrutoresEx05.csproj", "{BBD60DA9-20CB-4280-B680-D1C2B3D2A25E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Comportamento de memória, arrays, listas", "Comportamento de memória, arrays, listas", "{EC3B4ED2-F52E-4897-BD2E-CCD4B674CF4F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
