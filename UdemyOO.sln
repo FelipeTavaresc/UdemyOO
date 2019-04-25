@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysEx01", "Comportamento
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysEx02", "Comportamento de memória, arrays, listas\ArraysEx02\ArraysEx02.csproj", "{F459D5BB-995E-4E6E-8DFD-298D7BCB8D6A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysEx03", "Comportamento de memória, arrays, listas\ArraysEx03\ArraysEx03.csproj", "{8D78277E-DD13-4379-BB57-403B5662435C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{F459D5BB-995E-4E6E-8DFD-298D7BCB8D6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F459D5BB-995E-4E6E-8DFD-298D7BCB8D6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F459D5BB-995E-4E6E-8DFD-298D7BCB8D6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D78277E-DD13-4379-BB57-403B5662435C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D78277E-DD13-4379-BB57-403B5662435C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D78277E-DD13-4379-BB57-403B5662435C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D78277E-DD13-4379-BB57-403B5662435C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -125,6 +131,7 @@ Global
 		{BBD60DA9-20CB-4280-B680-D1C2B3D2A25E} = {834454F1-B1D9-4375-A7D1-C84E1C9E131B}
 		{F82DF7B1-EEC7-4932-8717-E14512F09723} = {EC3B4ED2-F52E-4897-BD2E-CCD4B674CF4F}
 		{F459D5BB-995E-4E6E-8DFD-298D7BCB8D6A} = {EC3B4ED2-F52E-4897-BD2E-CCD4B674CF4F}
+		{8D78277E-DD13-4379-BB57-403B5662435C} = {EC3B4ED2-F52E-4897-BD2E-CCD4B674CF4F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D8ADBB4B-8197-40D1-BDED-08F5C2BDC4A0}
