@@ -1,0 +1,5 @@
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Comportamento de memória, arrays, listas\RefEx01\bin\Debug\RefEx01.exe.config
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Comportamento de memória, arrays, listas\RefEx01\bin\Debug\RefEx01.exe
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Comportamento de memória, arrays, listas\RefEx01\bin\Debug\RefEx01.pdb
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Comportamento de memória, arrays, listas\RefEx01\obj\Debug\RefEx01.exe
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Comportamento de memória, arrays, listas\RefEx01\obj\Debug\RefEx01.pdb
