@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParamsEx01", "Comportamento
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefEx01", "Comportamento de memória, arrays, listas\RefEx01\RefEx01.csproj", "{F606F589-3BF2-4290-AA0D-0C8C573499B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutEx01", "Comportamento de memória, arrays, listas\OutEx01\OutEx01.csproj", "{DFBEE19F-C3F5-4D48-8A93-994906D3280A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{F606F589-3BF2-4290-AA0D-0C8C573499B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F606F589-3BF2-4290-AA0D-0C8C573499B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F606F589-3BF2-4290-AA0D-0C8C573499B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFBEE19F-C3F5-4D48-8A93-994906D3280A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFBEE19F-C3F5-4D48-8A93-994906D3280A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFBEE19F-C3F5-4D48-8A93-994906D3280A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFBEE19F-C3F5-4D48-8A93-994906D3280A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -146,6 +152,7 @@ Global
 		{8D78277E-DD13-4379-BB57-403B5662435C} = {EC3B4ED2-F52E-4897-BD2E-CCD4B674CF4F}
 		{C4E2237F-D6B5-498B-A9B1-24E0F8E220FD} = {EC3B4ED2-F52E-4897-BD2E-CCD4B674CF4F}
 		{F606F589-3BF2-4290-AA0D-0C8C573499B8} = {EC3B4ED2-F52E-4897-BD2E-CCD4B674CF4F}
+		{DFBEE19F-C3F5-4D48-8A93-994906D3280A} = {EC3B4ED2-F52E-4897-BD2E-CCD4B674CF4F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D8ADBB4B-8197-40D1-BDED-08F5C2BDC4A0}
