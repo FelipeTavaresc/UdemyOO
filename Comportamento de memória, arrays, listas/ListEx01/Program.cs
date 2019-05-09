@@ -13,7 +13,7 @@ namespace ListEx01
             List<string> list = new List<string>();
 
             list.Add("Maria");
-            list.Add("Alexx");
+            list.Add("Alex");
             list.Add("Bob");
             list.Add("Anna");
             list.Insert(2, "Marco");
@@ -43,6 +43,21 @@ namespace ListEx01
             {
                 Console.WriteLine(obj);
             }
+
+            list.Remove("Alex");
+            Console.WriteLine("--------------------------------");
+            foreach (string obj in list)
+            {
+                Console.WriteLine(obj);
+            }
+
+            list.RemoveAll(x => x[0] == 'M');
+            Console.WriteLine("--------------------------------");
+            foreach (string obj in list)
+            {
+                Console.WriteLine(obj);
+            }
+
 
             Console.ReadKey();
         }
