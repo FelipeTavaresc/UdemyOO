@@ -4,3 +4,8 @@ C:\Users\felip\Desktop\UdemyOO\Construtores, palavra this, sobrecarga, encapsula
 C:\Users\felip\Desktop\UdemyOO\Construtores, palavra this, sobrecarga, encapsulamento\ConstrutoresEx04\bin\Debug\ConstrutoresEx04.pdb
 C:\Users\felip\Desktop\UdemyOO\Construtores, palavra this, sobrecarga, encapsulamento\ConstrutoresEx04\obj\Debug\ConstrutoresEx04.exe
 C:\Users\felip\Desktop\UdemyOO\Construtores, palavra this, sobrecarga, encapsulamento\ConstrutoresEx04\obj\Debug\ConstrutoresEx04.pdb
+C:\Users\Felipe\documents\visual studio 2017\Projects\UdemyOO\Construtores, palavra this, sobrecarga, encapsulamento\ConstrutoresEx04\bin\Debug\ConstrutoresEx04.exe.config
+C:\Users\Felipe\documents\visual studio 2017\Projects\UdemyOO\Construtores, palavra this, sobrecarga, encapsulamento\ConstrutoresEx04\bin\Debug\ConstrutoresEx04.exe
+C:\Users\Felipe\documents\visual studio 2017\Projects\UdemyOO\Construtores, palavra this, sobrecarga, encapsulamento\ConstrutoresEx04\bin\Debug\ConstrutoresEx04.pdb
+C:\Users\Felipe\documents\visual studio 2017\Projects\UdemyOO\Construtores, palavra this, sobrecarga, encapsulamento\ConstrutoresEx04\obj\Debug\ConstrutoresEx04.exe
+C:\Users\Felipe\documents\visual studio 2017\Projects\UdemyOO\Construtores, palavra this, sobrecarga, encapsulamento\ConstrutoresEx04\obj\Debug\ConstrutoresEx04.pdb

@@ -1,0 +1,6 @@
+C:\Users\Felipe\documents\visual studio 2017\Projects\UdemyOO\Classes, atributos, métodos, membros estáticos\ClassesEx03\bin\Debug\ClassesEx03.exe.config
+C:\Users\Felipe\documents\visual studio 2017\Projects\UdemyOO\Classes, atributos, métodos, membros estáticos\ClassesEx03\bin\Debug\ClassesEx03.exe
+C:\Users\Felipe\documents\visual studio 2017\Projects\UdemyOO\Classes, atributos, métodos, membros estáticos\ClassesEx03\bin\Debug\ClassesEx03.pdb
+C:\Users\Felipe\documents\visual studio 2017\Projects\UdemyOO\Classes, atributos, métodos, membros estáticos\ClassesEx03\obj\Debug\ClassesEx03.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\documents\visual studio 2017\Projects\UdemyOO\Classes, atributos, métodos, membros estáticos\ClassesEx03\obj\Debug\ClassesEx03.exe
+C:\Users\Felipe\documents\visual studio 2017\Projects\UdemyOO\Classes, atributos, métodos, membros estáticos\ClassesEx03\obj\Debug\ClassesEx03.pdb

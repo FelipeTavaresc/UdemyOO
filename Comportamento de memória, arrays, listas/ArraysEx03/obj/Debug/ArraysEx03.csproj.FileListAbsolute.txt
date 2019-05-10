@@ -5,3 +5,8 @@ C:\Users\felip\Desktop\UdemyOO\Comportamento de memória, arrays, listas\ArraysE
 C:\Users\felip\Desktop\UdemyOO\Comportamento de memória, arrays, listas\ArraysEx03\obj\Debug\ArraysEx03.csproj.CoreCompileInputs.cache
 C:\Users\felip\Desktop\UdemyOO\Comportamento de memória, arrays, listas\ArraysEx03\obj\Debug\ArraysEx03.exe
 C:\Users\felip\Desktop\UdemyOO\Comportamento de memória, arrays, listas\ArraysEx03\obj\Debug\ArraysEx03.pdb
+C:\Users\Felipe\documents\visual studio 2017\Projects\UdemyOO\Comportamento de memória, arrays, listas\ArraysEx03\bin\Debug\ArraysEx03.exe.config
+C:\Users\Felipe\documents\visual studio 2017\Projects\UdemyOO\Comportamento de memória, arrays, listas\ArraysEx03\bin\Debug\ArraysEx03.exe
+C:\Users\Felipe\documents\visual studio 2017\Projects\UdemyOO\Comportamento de memória, arrays, listas\ArraysEx03\bin\Debug\ArraysEx03.pdb
+C:\Users\Felipe\documents\visual studio 2017\Projects\UdemyOO\Comportamento de memória, arrays, listas\ArraysEx03\obj\Debug\ArraysEx03.exe
+C:\Users\Felipe\documents\visual studio 2017\Projects\UdemyOO\Comportamento de memória, arrays, listas\ArraysEx03\obj\Debug\ArraysEx03.pdb

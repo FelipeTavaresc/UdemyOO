@@ -1,0 +1,5 @@
+C:\Users\Felipe\documents\visual studio 2017\Projects\UdemyOO\Classes, atributos, métodos, membros estáticos\ClassesEx06\bin\Debug\ClassesEx06.exe.config
+C:\Users\Felipe\documents\visual studio 2017\Projects\UdemyOO\Classes, atributos, métodos, membros estáticos\ClassesEx06\bin\Debug\ClassesEx06.exe
+C:\Users\Felipe\documents\visual studio 2017\Projects\UdemyOO\Classes, atributos, métodos, membros estáticos\ClassesEx06\bin\Debug\ClassesEx06.pdb
+C:\Users\Felipe\documents\visual studio 2017\Projects\UdemyOO\Classes, atributos, métodos, membros estáticos\ClassesEx06\obj\Debug\ClassesEx06.exe
+C:\Users\Felipe\documents\visual studio 2017\Projects\UdemyOO\Classes, atributos, métodos, membros estáticos\ClassesEx06\obj\Debug\ClassesEx06.pdb

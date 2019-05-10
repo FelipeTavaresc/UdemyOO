@@ -1,0 +1,5 @@
+C:\Users\Felipe\documents\visual studio 2017\Projects\UdemyOO\Classes, atributos, métodos, membros estáticos\MetodosEstaticosEx02\bin\Debug\MetodosEstaticosEx02.exe.config
+C:\Users\Felipe\documents\visual studio 2017\Projects\UdemyOO\Classes, atributos, métodos, membros estáticos\MetodosEstaticosEx02\bin\Debug\MetodosEstaticosEx02.exe
+C:\Users\Felipe\documents\visual studio 2017\Projects\UdemyOO\Classes, atributos, métodos, membros estáticos\MetodosEstaticosEx02\bin\Debug\MetodosEstaticosEx02.pdb
+C:\Users\Felipe\documents\visual studio 2017\Projects\UdemyOO\Classes, atributos, métodos, membros estáticos\MetodosEstaticosEx02\obj\Debug\MetodosEstaticosEx02.exe
+C:\Users\Felipe\documents\visual studio 2017\Projects\UdemyOO\Classes, atributos, métodos, membros estáticos\MetodosEstaticosEx02\obj\Debug\MetodosEstaticosEx02.pdb
