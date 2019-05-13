@@ -1,0 +1,6 @@
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Enumerações e composição\EnumEx01\bin\Debug\EnumEx01.exe.config
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Enumerações e composição\EnumEx01\bin\Debug\EnumEx01.exe
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Enumerações e composição\EnumEx01\bin\Debug\EnumEx01.pdb
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Enumerações e composição\EnumEx01\obj\Debug\EnumEx01.exe
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Enumerações e composição\EnumEx01\obj\Debug\EnumEx01.pdb
+C:\Users\Felipe\documents\visual studio 2017\Projects\UdemyOO\Enumerações e composição\EnumEx01\obj\Debug\EnumEx01.csprojResolveAssemblyReference.cache
