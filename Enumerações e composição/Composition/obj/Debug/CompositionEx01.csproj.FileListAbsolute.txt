@@ -1,6 +1,0 @@
-C:\Users\Felipe\documents\visual studio 2017\Projects\UdemyOO\Enumerações e composição\Composition\bin\Debug\Composition.exe.config
-C:\Users\Felipe\documents\visual studio 2017\Projects\UdemyOO\Enumerações e composição\Composition\bin\Debug\Composition.exe
-C:\Users\Felipe\documents\visual studio 2017\Projects\UdemyOO\Enumerações e composição\Composition\bin\Debug\Composition.pdb
-C:\Users\Felipe\documents\visual studio 2017\Projects\UdemyOO\Enumerações e composição\Composition\obj\Debug\CompositionEx01.csprojResolveAssemblyReference.cache
-C:\Users\Felipe\documents\visual studio 2017\Projects\UdemyOO\Enumerações e composição\Composition\obj\Debug\Composition.exe
-C:\Users\Felipe\documents\visual studio 2017\Projects\UdemyOO\Enumerações e composição\Composition\obj\Debug\Composition.pdb
