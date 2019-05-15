@@ -1,0 +1,7 @@
+C:\Users\felip\Desktop\UdemyOO\Enumerações e composição\StringBuilder\obj\Debug\StringBuilder.csprojAssemblyReference.cache
+C:\Users\felip\Desktop\UdemyOO\Enumerações e composição\StringBuilder\obj\Debug\StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\UdemyOO\Enumerações e composição\StringBuilder\bin\Debug\StringBuilder.exe.config
+C:\Users\felip\Desktop\UdemyOO\Enumerações e composição\StringBuilder\bin\Debug\StringBuilder.exe
+C:\Users\felip\Desktop\UdemyOO\Enumerações e composição\StringBuilder\bin\Debug\StringBuilder.pdb
+C:\Users\felip\Desktop\UdemyOO\Enumerações e composição\StringBuilder\obj\Debug\StringBuilder.exe
+C:\Users\felip\Desktop\UdemyOO\Enumerações e composição\StringBuilder\obj\Debug\StringBuilder.pdb

@@ -3,3 +3,10 @@ C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Comportamento de m
 C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Comportamento de memória, arrays, listas\RefEx01\bin\Debug\RefEx01.pdb
 C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Comportamento de memória, arrays, listas\RefEx01\obj\Debug\RefEx01.exe
 C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Comportamento de memória, arrays, listas\RefEx01\obj\Debug\RefEx01.pdb
+C:\Users\felip\Desktop\UdemyOO\Comportamento de memória, arrays, listas\RefEx01\bin\Debug\RefEx01.exe.config
+C:\Users\felip\Desktop\UdemyOO\Comportamento de memória, arrays, listas\RefEx01\bin\Debug\RefEx01.exe
+C:\Users\felip\Desktop\UdemyOO\Comportamento de memória, arrays, listas\RefEx01\bin\Debug\RefEx01.pdb
+C:\Users\felip\Desktop\UdemyOO\Comportamento de memória, arrays, listas\RefEx01\obj\Debug\RefEx01.csprojAssemblyReference.cache
+C:\Users\felip\Desktop\UdemyOO\Comportamento de memória, arrays, listas\RefEx01\obj\Debug\RefEx01.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\UdemyOO\Comportamento de memória, arrays, listas\RefEx01\obj\Debug\RefEx01.exe
+C:\Users\felip\Desktop\UdemyOO\Comportamento de memória, arrays, listas\RefEx01\obj\Debug\RefEx01.pdb

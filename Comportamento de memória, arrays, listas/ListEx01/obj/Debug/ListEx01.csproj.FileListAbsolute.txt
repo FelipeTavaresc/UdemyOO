@@ -4,3 +4,10 @@ C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Comportamento de m
 C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Comportamento de memória, arrays, listas\ListEx01\obj\Debug\ListEx01.exe
 C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Comportamento de memória, arrays, listas\ListEx01\obj\Debug\ListEx01.pdb
 C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Comportamento de memória, arrays, listas\ListEx01\obj\Debug\ListEx01.csprojResolveAssemblyReference.cache
+C:\Users\felip\Desktop\UdemyOO\Comportamento de memória, arrays, listas\ListEx01\bin\Debug\ListEx01.exe.config
+C:\Users\felip\Desktop\UdemyOO\Comportamento de memória, arrays, listas\ListEx01\bin\Debug\ListEx01.exe
+C:\Users\felip\Desktop\UdemyOO\Comportamento de memória, arrays, listas\ListEx01\bin\Debug\ListEx01.pdb
+C:\Users\felip\Desktop\UdemyOO\Comportamento de memória, arrays, listas\ListEx01\obj\Debug\ListEx01.csprojAssemblyReference.cache
+C:\Users\felip\Desktop\UdemyOO\Comportamento de memória, arrays, listas\ListEx01\obj\Debug\ListEx01.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\UdemyOO\Comportamento de memória, arrays, listas\ListEx01\obj\Debug\ListEx01.exe
+C:\Users\felip\Desktop\UdemyOO\Comportamento de memória, arrays, listas\ListEx01\obj\Debug\ListEx01.pdb
