@@ -1,0 +1,6 @@
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Tópicos especiais PARTE 1\TimeSpanEx01\bin\Debug\TimeSpanEx01.exe.config
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Tópicos especiais PARTE 1\TimeSpanEx01\bin\Debug\TimeSpanEx01.exe
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Tópicos especiais PARTE 1\TimeSpanEx01\bin\Debug\TimeSpanEx01.pdb
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Tópicos especiais PARTE 1\TimeSpanEx01\obj\Debug\TimeSpanEx01.exe
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Tópicos especiais PARTE 1\TimeSpanEx01\obj\Debug\TimeSpanEx01.pdb
+C:\Users\Felipe\documents\visual studio 2017\Projects\UdemyOO\Tópicos especiais PARTE 1\TimeSpanEx01\obj\Debug\TimeSpanEx01.csprojResolveAssemblyReference.cache

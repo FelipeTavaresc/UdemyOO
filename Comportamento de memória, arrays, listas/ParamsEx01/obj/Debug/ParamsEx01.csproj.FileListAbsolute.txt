@@ -1,0 +1,6 @@
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Comportamento de memória, arrays, listas\ParamsEx01\bin\Debug\ParamsEx01.exe.config
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Comportamento de memória, arrays, listas\ParamsEx01\bin\Debug\ParamsEx01.exe
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Comportamento de memória, arrays, listas\ParamsEx01\bin\Debug\ParamsEx01.pdb
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Comportamento de memória, arrays, listas\ParamsEx01\obj\Debug\ParamsEx01.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Comportamento de memória, arrays, listas\ParamsEx01\obj\Debug\ParamsEx01.exe
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Comportamento de memória, arrays, listas\ParamsEx01\obj\Debug\ParamsEx01.pdb

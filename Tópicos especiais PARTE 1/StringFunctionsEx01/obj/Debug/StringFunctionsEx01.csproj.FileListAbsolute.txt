@@ -1,0 +1,6 @@
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Tópicos especiais PARTE 1\StringFunctionsEx01\bin\Debug\StringFunctionsEx01.exe.config
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Tópicos especiais PARTE 1\StringFunctionsEx01\bin\Debug\StringFunctionsEx01.exe
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Tópicos especiais PARTE 1\StringFunctionsEx01\bin\Debug\StringFunctionsEx01.pdb
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Tópicos especiais PARTE 1\StringFunctionsEx01\obj\Debug\StringFunctionsEx01.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Tópicos especiais PARTE 1\StringFunctionsEx01\obj\Debug\StringFunctionsEx01.exe
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Tópicos especiais PARTE 1\StringFunctionsEx01\obj\Debug\StringFunctionsEx01.pdb
