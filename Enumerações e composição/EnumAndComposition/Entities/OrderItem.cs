@@ -11,7 +11,7 @@ namespace EnumAndComposition.Entities
     {
         public int Quantity { get; set; }
         public double Price { get; set; }
-        public Product Product {get; set;};
+        public Product Product {get; set;}
 
         public OrderItem(int quantity, double price, Product product)
         {
