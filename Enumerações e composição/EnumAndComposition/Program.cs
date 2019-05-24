@@ -17,8 +17,8 @@ namespace EnumAndComposition
             DateTime birthDate = DateTime.Parse(Console.ReadLine());
             Console.WriteLine("Enter order data:");
             Console.Write("Status");
-            OrderStatus status;
-            status = Enum.Parse<OrderStatus>(Console.ReadLine());
+            var statusAux = Console.ReadLine();
+            OrderStatus status = (OrderStatus)Enum.Parse<OrderStatus>(typeof(OrderStatus), statusAux);
 
             Client client = new Client(clientName, email, birthDate);
             Order order = new Order(DateTime.Now, status, client);
