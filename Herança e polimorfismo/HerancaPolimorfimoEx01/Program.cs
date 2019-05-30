@@ -47,7 +47,6 @@ namespace HerancaPolimorfismoEx01
                 Console.WriteLine(emp.Name + "- $ " + emp.Payment().ToString("F2", CultureInfo.InvariantCulture));
             }
 
-            Console.ReadKey();
         }
     }
 }
