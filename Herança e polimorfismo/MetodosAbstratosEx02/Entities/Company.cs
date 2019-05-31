@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace MetodosAbstratosEx02.Entities
+﻿namespace MetodosAbstratosEx02.Entities
 {
     class Company : TaxPlayer
     {
@@ -30,5 +24,6 @@ namespace MetodosAbstratosEx02.Entities
                 return AnualIncome / 100 * 16;
             }
 
+        }
     }
 }

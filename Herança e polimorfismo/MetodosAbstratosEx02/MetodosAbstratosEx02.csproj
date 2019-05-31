@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0C6316ED-4C3F-49F0-8986-58569E740C99}</ProjectGuid>
+    <ProjectGuid>{3951D16A-702B-4B3D-AC2C-7BA2206A5993}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>MetodosAbstratosEx02</RootNamespace>
     <AssemblyName>MetodosAbstratosEx02</AssemblyName>
@@ -42,9 +42,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Entities\Company.cs" />
-    <Compile Include="Entities\Individual.cs" />
-    <Compile Include="Entities\TaxPlayer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -1,6 +1,0 @@
-C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Enumerações e composição\MetodosAbstratosEx02\bin\Debug\MetodosAbstratosEx02.exe.config
-C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Enumerações e composição\MetodosAbstratosEx02\bin\Debug\MetodosAbstratosEx02.exe
-C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Enumerações e composição\MetodosAbstratosEx02\bin\Debug\MetodosAbstratosEx02.pdb
-C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Enumerações e composição\MetodosAbstratosEx02\obj\Debug\MetodosAbstratosEx02.csprojResolveAssemblyReference.cache
-C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Enumerações e composição\MetodosAbstratosEx02\obj\Debug\MetodosAbstratosEx02.exe
-C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Enumerações e composição\MetodosAbstratosEx02\obj\Debug\MetodosAbstratosEx02.pdb

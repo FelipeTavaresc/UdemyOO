@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace MetodosAbstratosEx02.Entities
+﻿namespace MetodosAbstratosEx02.Entities
 {
     class Individual : TaxPlayer
     {
@@ -14,7 +8,7 @@ namespace MetodosAbstratosEx02.Entities
         {
         }
 
-        public Individual(string name, double anualIncome, double healthExpenditures) :base (name, anualIncome)
+        public Individual(string name, double anualIncome, double healthExpenditures) : base(name, anualIncome)
         {
             HealthExpenditures = healthExpenditures;
         }
