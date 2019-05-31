@@ -79,6 +79,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HerancaPolimorfismoEx02", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosAbstratosEx01", "Herança e polimorfismo\MetodosAbstratosEx01\MetodosAbstratosEx01.csproj", "{F7F9D7D2-155C-4020-8B3F-4123683CAAEF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosAbstratosEx02", "Enumerações e composição\MetodosAbstratosEx02\MetodosAbstratosEx02.csproj", "{0C6316ED-4C3F-49F0-8986-58569E740C99}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +215,10 @@ Global
 		{F7F9D7D2-155C-4020-8B3F-4123683CAAEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7F9D7D2-155C-4020-8B3F-4123683CAAEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7F9D7D2-155C-4020-8B3F-4123683CAAEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C6316ED-4C3F-49F0-8986-58569E740C99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C6316ED-4C3F-49F0-8986-58569E740C99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C6316ED-4C3F-49F0-8986-58569E740C99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C6316ED-4C3F-49F0-8986-58569E740C99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -250,6 +256,7 @@ Global
 		{324B41A0-42D5-477F-A11B-616AC90088B2} = {C169F451-59ED-4FDA-BB35-F28BFBBFAFC7}
 		{767520CA-3B2C-471F-8C2E-1950952E1D2A} = {C169F451-59ED-4FDA-BB35-F28BFBBFAFC7}
 		{F7F9D7D2-155C-4020-8B3F-4123683CAAEF} = {C169F451-59ED-4FDA-BB35-F28BFBBFAFC7}
+		{0C6316ED-4C3F-49F0-8986-58569E740C99} = {C169F451-59ED-4FDA-BB35-F28BFBBFAFC7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D8ADBB4B-8197-40D1-BDED-08F5C2BDC4A0}
