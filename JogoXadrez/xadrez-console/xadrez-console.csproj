@@ -7,7 +7,7 @@
     <ProjectGuid>{3077B8B9-F8BF-46D9-888A-8A35C4AE3FC7}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>xadrez_console</RootNamespace>
-    <AssemblyName>xadrez_console</AssemblyName>
+    <AssemblyName>xadrez-console</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -44,6 +44,10 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="tabuleiro\Cor.cs" />
+    <Compile Include="tabuleiro\Peca.cs" />
+    <Compile Include="tabuleiro\Posicao.cs" />
+    <Compile Include="tabuleiro\Tabuleiro.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
