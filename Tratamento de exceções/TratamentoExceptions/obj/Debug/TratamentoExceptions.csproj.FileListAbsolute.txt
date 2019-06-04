@@ -1,0 +1,6 @@
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Tratamento de exceções\TratamentoExceptions\bin\Debug\TratamentoExceptions.exe.config
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Tratamento de exceções\TratamentoExceptions\bin\Debug\TratamentoExceptions.exe
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Tratamento de exceções\TratamentoExceptions\bin\Debug\TratamentoExceptions.pdb
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Tratamento de exceções\TratamentoExceptions\obj\Debug\TratamentoExceptions.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Tratamento de exceções\TratamentoExceptions\obj\Debug\TratamentoExceptions.exe
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Tratamento de exceções\TratamentoExceptions\obj\Debug\TratamentoExceptions.pdb
