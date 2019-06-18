@@ -1,1 +1,3 @@
 C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Enumerações e composição\EnumAndComposition\obj\Debug\EnumAndComposition.csprojResolveAssemblyReference.cache
+C:\Users\felip\Desktop\UdemyOO\Enumerações e composição\EnumAndComposition\obj\Debug\EnumAndComposition.csprojAssemblyReference.cache
+C:\Users\felip\Desktop\UdemyOO\Enumerações e composição\EnumAndComposition\obj\Debug\EnumAndComposition.csproj.CoreCompileInputs.cache
