@@ -87,9 +87,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TratamentoExceptions", "Tra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TratamentoExceptionsEx01", "Tratamento de exceções\TratamentoExceptionsEx01\TratamentoExceptionsEx01.csproj", "{D1A81C92-2E2D-456B-AA84-FDB5480852C0}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "JogoXadrez", "JogoXadrez", "{2EAEB815-333A-46A2-825B-B33D4E410987}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Trabalhando com arquivos", "Trabalhando com arquivos", "{E3E085C5-D71F-4311-8074-CCBF0E366A61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xadrez-console", "JogoXadrez\xadrez-console\xadrez-console.csproj", "{3077B8B9-F8BF-46D9-888A-8A35C4AE3FC7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilesEx01", "Trabalhando com arquivos\FilesEx01\FilesEx01.csproj", "{14CAB38B-EBA0-4B4F-ABAC-458EB01BA23F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -237,10 +237,10 @@ Global
 		{D1A81C92-2E2D-456B-AA84-FDB5480852C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1A81C92-2E2D-456B-AA84-FDB5480852C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1A81C92-2E2D-456B-AA84-FDB5480852C0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3077B8B9-F8BF-46D9-888A-8A35C4AE3FC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3077B8B9-F8BF-46D9-888A-8A35C4AE3FC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3077B8B9-F8BF-46D9-888A-8A35C4AE3FC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3077B8B9-F8BF-46D9-888A-8A35C4AE3FC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14CAB38B-EBA0-4B4F-ABAC-458EB01BA23F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14CAB38B-EBA0-4B4F-ABAC-458EB01BA23F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14CAB38B-EBA0-4B4F-ABAC-458EB01BA23F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14CAB38B-EBA0-4B4F-ABAC-458EB01BA23F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -281,7 +281,7 @@ Global
 		{3951D16A-702B-4B3D-AC2C-7BA2206A5993} = {C169F451-59ED-4FDA-BB35-F28BFBBFAFC7}
 		{4F19C9A4-7D8D-43CA-B4B3-222C658D925E} = {A43DA60B-5E67-40EA-8432-7977FB896504}
 		{D1A81C92-2E2D-456B-AA84-FDB5480852C0} = {A43DA60B-5E67-40EA-8432-7977FB896504}
-		{3077B8B9-F8BF-46D9-888A-8A35C4AE3FC7} = {2EAEB815-333A-46A2-825B-B33D4E410987}
+		{14CAB38B-EBA0-4B4F-ABAC-458EB01BA23F} = {E3E085C5-D71F-4311-8074-CCBF0E366A61}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D8ADBB4B-8197-40D1-BDED-08F5C2BDC4A0}
