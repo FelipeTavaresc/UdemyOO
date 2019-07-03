@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StringBuilderEx01.Entities
+namespace StringBuilderEx01 .Entities
 {
     class Post
     {

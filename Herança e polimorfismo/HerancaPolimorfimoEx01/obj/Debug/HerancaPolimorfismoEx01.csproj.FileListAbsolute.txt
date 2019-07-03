@@ -4,3 +4,10 @@ C:\Users\Felipe\documents\visual studio 2017\Projects\UdemyOO\Herança e polimor
 C:\Users\Felipe\documents\visual studio 2017\Projects\UdemyOO\Herança e polimorfismo\HerancaPolimorfimoEx01\obj\Debug\HerancaPolimorfismoEx01.csprojResolveAssemblyReference.cache
 C:\Users\Felipe\documents\visual studio 2017\Projects\UdemyOO\Herança e polimorfismo\HerancaPolimorfimoEx01\obj\Debug\HerancaPolimorfimoEx01.exe
 C:\Users\Felipe\documents\visual studio 2017\Projects\UdemyOO\Herança e polimorfismo\HerancaPolimorfimoEx01\obj\Debug\HerancaPolimorfimoEx01.pdb
+C:\Users\felip\Desktop\UdemyOO\Herança e polimorfismo\HerancaPolimorfimoEx01\bin\Debug\HerancaPolimorfimoEx01.exe.config
+C:\Users\felip\Desktop\UdemyOO\Herança e polimorfismo\HerancaPolimorfimoEx01\bin\Debug\HerancaPolimorfimoEx01.exe
+C:\Users\felip\Desktop\UdemyOO\Herança e polimorfismo\HerancaPolimorfimoEx01\bin\Debug\HerancaPolimorfimoEx01.pdb
+C:\Users\felip\Desktop\UdemyOO\Herança e polimorfismo\HerancaPolimorfimoEx01\obj\Debug\HerancaPolimorfismoEx01.csprojAssemblyReference.cache
+C:\Users\felip\Desktop\UdemyOO\Herança e polimorfismo\HerancaPolimorfimoEx01\obj\Debug\HerancaPolimorfismoEx01.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\UdemyOO\Herança e polimorfismo\HerancaPolimorfimoEx01\obj\Debug\HerancaPolimorfimoEx01.exe
+C:\Users\felip\Desktop\UdemyOO\Herança e polimorfismo\HerancaPolimorfimoEx01\obj\Debug\HerancaPolimorfimoEx01.pdb

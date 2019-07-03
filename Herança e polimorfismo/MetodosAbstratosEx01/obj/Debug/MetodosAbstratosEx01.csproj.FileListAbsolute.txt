@@ -4,3 +4,9 @@ C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Herança e polimor
 C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Herança e polimorfismo\MetodosAbstratosEx01\obj\Debug\MetodosAbstratosEx01.csprojResolveAssemblyReference.cache
 C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Herança e polimorfismo\MetodosAbstratosEx01\obj\Debug\MetodosAbstratosEx01.exe
 C:\Users\Felipe\Documents\Visual Studio 2017\Projects\UdemyOO\Herança e polimorfismo\MetodosAbstratosEx01\obj\Debug\MetodosAbstratosEx01.pdb
+C:\Users\felip\Desktop\UdemyOO\Herança e polimorfismo\MetodosAbstratosEx01\bin\Debug\MetodosAbstratosEx01.exe.config
+C:\Users\felip\Desktop\UdemyOO\Herança e polimorfismo\MetodosAbstratosEx01\bin\Debug\MetodosAbstratosEx01.exe
+C:\Users\felip\Desktop\UdemyOO\Herança e polimorfismo\MetodosAbstratosEx01\bin\Debug\MetodosAbstratosEx01.pdb
+C:\Users\felip\Desktop\UdemyOO\Herança e polimorfismo\MetodosAbstratosEx01\obj\Debug\MetodosAbstratosEx01.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\UdemyOO\Herança e polimorfismo\MetodosAbstratosEx01\obj\Debug\MetodosAbstratosEx01.exe
+C:\Users\felip\Desktop\UdemyOO\Herança e polimorfismo\MetodosAbstratosEx01\obj\Debug\MetodosAbstratosEx01.pdb
